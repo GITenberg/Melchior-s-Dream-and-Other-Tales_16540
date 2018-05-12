@@ -1,0 +1,35 @@
+_repo: Melchior-s-Dream-and-Other-Tales_16540
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ewing, Juliana Horatia Gatty
+    aliases:
+    - Ewing, J. H. (Juliana Horatia)
+    - Ewing, J.H.
+    birthdate: 1841
+    deathdate: 1885
+    gutenberg_agent_id: '1803'
+    url: http://www.gutenberg.org/2009/agents/1803
+    wikipedia: http://en.wikipedia.org/wiki/Juliana_Horatia_Ewing
+description: ''
+gutenberg_bookshelf: Children's Literature
+gutenberg_issued: '2005-08-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16540'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Children''s stories, English'
+tableOfContents: Melchior's dream -- The blackbird's nest -- Friedrich's ballad --
+  A bit of green -- Monsieur the Viscount's friend -- The Yew-lane ghosts -- A bad
+  habit -- A happy family.
+title: Melchior's Dream and Other Tales
+url: http://www.gutenberg.org/ebooks/16540
